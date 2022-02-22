@@ -1,6 +1,6 @@
 **Pull Request Description**
 
-_Plase include a brief description of the changes you have made such as why you decided to implement this or what this changes._
+_Please include a brief description of the changes you have made such as why you decided to implement this or what this changes._
 
 **Features**:
 _Please include a list of features/fixes that this Pull Request contains._
